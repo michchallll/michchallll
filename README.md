@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## 💻 Python Enthusiast | 📊 Power BI Explorer | 📚 SQL Beginner
+## I am a Python and Power BI enthusiast , with a passion for data analysis and task automation. I am currently expanding my SQL skills and constantly learning new things in data analytics and visualizations.
 <!--
 **michchallll/michchallll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
